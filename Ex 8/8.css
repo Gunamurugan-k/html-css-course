@@ -1,0 +1,24 @@
+.search-bar{
+    display: block;
+
+}
+.thumbnail{
+    width: 300px;
+    margin-top: 10px;
+}
+.video-title{
+    font-weight: bold;
+    width: 300px;
+    font-size: 18px;
+    display: block;
+    margin-top: 2px;
+    margin-bottom: 10px;
+}
+.video-author,.video-stats
+{
+    display: block;
+    width: 300px;
+    color: dimgray;
+    margin-bottom: 0px;
+    margin-top: 4px;
+}

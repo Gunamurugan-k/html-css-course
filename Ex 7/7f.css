@@ -1,0 +1,34 @@
+.email{
+    color: dimgrey;
+    font-size: 16px;
+    margin-bottom: 6px;
+}
+.mail{
+    width: 364px;
+    height: 28px;
+    border-width: 2px;
+    border-style: solid;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    margin-bottom: 6px;
+    border-radius: 4px;
+}
+.terms{
+    color: dimgray;
+    margin-top: 2px;
+}
+.agree-button{
+    font-size: 14px;
+    width: 364px;
+    height: 42px;
+    border-color: rgb(0, 123, 255);
+    border-style: solid;
+    color: white;
+    background-color: rgb(0, 123, 255);
+    padding-bottom: 4px;
+    padding-top: 4px;
+    padding-left: 12px;
+    padding-right: 12px;
+    cursor: pointer;
+    border-radius: 28px;
+}

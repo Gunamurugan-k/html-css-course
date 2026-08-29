@@ -1,0 +1,41 @@
+.first-name
+{
+    height: 36px;
+    font-size: 16px;
+    border-radius: 8px;
+    border-style: solid;
+    padding-left: 12px;
+}
+.second-name{
+    height: 36px;
+    font-size: 16px;
+    border-radius: 8px;
+    border-style: solid;
+    padding-left: 12px;
+    margin-bottom: 8px;
+ 
+}
+.email{
+    height: 36px;
+    font-size: 16px;
+    border-radius: 8px;
+    border-style: solid;
+    padding-left: 12px;
+    display: block;
+    width: 412px;
+    margin-bottom: 8px;
+}
+.sign-button{
+    height: 42px;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 8px;
+    border-style: solid;
+    padding-left: 12px;
+    width: 428px;
+    margin-bottom: 8px;
+    color: white;
+    background-color: dodgerblue;
+    border-color: dodgerblue;
+    cursor: pointer;
+}
