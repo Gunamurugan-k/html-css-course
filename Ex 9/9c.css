@@ -1,0 +1,19 @@
+.feedback{
+    font-size: 18px;
+    margin-left: 8px;
+}
+.yes{
+    margin-left: 8px;
+}
+.no{
+    margin-left: 6px;
+}
+.border{
+    border-color: black;
+    padding-top: 4px;
+    padding-left: 16px;
+    border-width: 1px;
+    padding-bottom: 18px;
+    width: 400px;
+    border-style: solid;
+}

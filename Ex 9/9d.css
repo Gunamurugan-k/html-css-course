@@ -1,0 +1,22 @@
+.edit{
+    background-color: rgb(37, 35, 35);
+    width: 360px;
+}
+.install{
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-left: 16px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    
+}
+.addtodesktop{
+    color: rgb(175, 169, 169);
+    font-size: 17px;
+    padding-left: 16px;
+    margin-top: 8px;
+    padding-right: 8px;
+    padding-bottom: 10px;
+}
